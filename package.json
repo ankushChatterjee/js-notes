@@ -1,0 +1,15 @@
+{
+  "name": "js-notes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin":{
+    "jsnotes":"./index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.12.2",
+    "consolidate": "^0.15.0",
+    "ejs": "^2.5.7",
+    "esprima": "^4.0.0"
+  }
+}

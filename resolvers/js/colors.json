@@ -1,0 +1,15 @@
+{
+    "Keyword":"#22A7F0",
+    "Identifier":"#E9D460",
+    "Punctuator":"#d4d4d4",
+    "Numeric":"#b5cea8",
+    "String":"#ce9178",
+    "Boolean":"#00E640",
+    "RegularExpression":"#646695",
+    "Null":"#569cd6",
+    "BlockComment":"#608b4e",
+    "LineComment":"#608b4e",
+    "Template":"#ce9178",
+    "undefined":"#BE90D4",
+    "arrow":"#D24D57"
+}
